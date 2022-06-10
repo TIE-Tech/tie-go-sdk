@@ -1,4 +1,4 @@
-module tie-go-sdk
+module github.com/TIE-Tech/tie-go-sdk
 
 go 1.17
 
