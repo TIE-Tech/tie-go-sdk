@@ -1,4 +1,4 @@
-module go-sdk
+module tie-go-sdk
 
 go 1.17
 
