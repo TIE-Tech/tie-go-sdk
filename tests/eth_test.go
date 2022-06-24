@@ -1,8 +1,8 @@
 package tests
 
 import (
-	"go-sdk/response"
-	"go-sdk/rpc"
+	"github.com/TIE-Tech/tie-go-sdk/response"
+	"github.com/TIE-Tech/tie-go-sdk/rpc"
 	"math/big"
 	"testing"
 )

@@ -5,7 +5,7 @@ import (
 	"crypto/aes"
 	"encoding/json"
 	"fmt"
-	"go-sdk/response"
+	"github.com/TIE-Tech/tie-go-sdk/response"
 )
 
 // EncryptV3 encrypts data in v3 format

@@ -1,8 +1,8 @@
 package wallet
 
 import (
+	"github.com/TIE-Tech/tie-go-sdk/response"
 	"github.com/umbracle/fastrlp"
-	"go-sdk/response"
 	"math/big"
 )
 

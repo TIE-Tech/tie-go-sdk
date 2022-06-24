@@ -1,7 +1,7 @@
 package tests
 
 import (
-	"go-sdk/rpc"
+	"github.com/TIE-Tech/tie-go-sdk/rpc"
 	"testing"
 )
 

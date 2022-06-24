@@ -4,9 +4,9 @@ import (
 	"crypto/ecdsa"
 	"encoding/hex"
 	"fmt"
-	crypto2 "go-sdk/crypto"
-	"go-sdk/response"
-	"go-sdk/wallet"
+	crypto2 "github.com/TIE-Tech/tie-go-sdk/crypto"
+	"github.com/TIE-Tech/tie-go-sdk/response"
+	"github.com/TIE-Tech/tie-go-sdk/wallet"
 	"math/big"
 	"testing"
 

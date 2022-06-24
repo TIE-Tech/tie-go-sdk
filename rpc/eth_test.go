@@ -1,9 +1,9 @@
 package rpc
 
 import (
+	"github.com/TIE-Tech/tie-go-sdk/response"
+	"github.com/TIE-Tech/tie-go-sdk/tests"
 	"github.com/stretchr/testify/assert"
-	"go-sdk/response"
-	"go-sdk/tests"
 	"math/big"
 	"testing"
 )

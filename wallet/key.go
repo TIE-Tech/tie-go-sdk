@@ -4,8 +4,8 @@ import (
 	"crypto/ecdsa"
 	"crypto/elliptic"
 	"crypto/rand"
+	"github.com/TIE-Tech/tie-go-sdk/response"
 	"github.com/btcsuite/btcd/btcec"
-	"go-sdk/response"
 )
 
 // S256 is the secp256k1 elliptic curve

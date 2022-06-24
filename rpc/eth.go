@@ -5,11 +5,11 @@ import (
 	"encoding/hex"
 	"encoding/json"
 	"fmt"
-	"go-sdk/response"
-	"go-sdk/wallet"
+	"github.com/TIE-Tech/tie-go-sdk/response"
+	"github.com/TIE-Tech/tie-go-sdk/wallet"
 	"math/big"
 
-	crypto2 "go-sdk/crypto"
+	crypto2 "github.com/TIE-Tech/tie-go-sdk/crypto"
 )
 
 type Eth struct {

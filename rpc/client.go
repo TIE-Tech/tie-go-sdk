@@ -1,6 +1,6 @@
 package rpc
 
-import "go-sdk/transport"
+import "github.com/TIE-Tech/tie-go-sdk/transport"
 
 // rpc_client
 type Client struct {

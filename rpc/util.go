@@ -3,7 +3,7 @@ package rpc
 import (
 	"encoding/hex"
 	"fmt"
-	"go-sdk/response"
+	"github.com/TIE-Tech/tie-go-sdk/response"
 	"math/big"
 	"strconv"
 	"strings"

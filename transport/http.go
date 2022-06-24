@@ -2,7 +2,7 @@ package transport
 
 import (
 	"encoding/json"
-	"go-sdk/codec"
+	"github.com/TIE-Tech/tie-go-sdk/codec"
 
 	"github.com/valyala/fasthttp"
 )
