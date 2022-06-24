@@ -259,8 +259,5 @@ func (e *Eth) Sign(hexprv string, txn *response.Transaction, chainId uint64) ([]
 		return nil, err
 	}
 
-	// tranStr := "0x" + hex.EncodeToString(b)
-	tranStr := hex.EncodeToString(b)
-
-	return []byte(tranStr), nil
+	return b, nil
 }
